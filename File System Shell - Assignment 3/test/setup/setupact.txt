@@ -1,0 +1,216 @@
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCISkipClassInstaller: SetupDiGetSelectedDriver failed with error 0xe0000203.
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0xa9d64aa0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCISkipClassInstaller: SetupDiGetSelectedDriver failed with error 0xe0000203.
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_8086&DEV_0166&SUBSYS_90B7104D&REV_09\3&11583659&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+BthMig(V:2 T:-3): Applying saved Bluetooth settings
+BthMig(V:2 T:-3): System in setup 1
+BthMig(V:2 T:-3): Copying the migration information to a permanent location
+BthMig(V:2 T:-3): LocalServices registry key was migrated
+BthMig(V:2 T:-3): DisableFsquirt registry value was migrated
+BthMig(V:2 T:-3): Migration information successfully copied to a permanent location
+BthMig(V:2 T:-3): LocalServices registry key was migrated
+BthMig(V:2 T:-3): DisableFsquirt registry value was migrated
+BthMig(V:2 T:-3): No Bluetooth radios found
+BthMig(V:2 T:-3): No Bluetooth radios found
+BthMig(V:2 T:-3): Match for the device found
+BthMig(V:2 T:-3): No Bluetooth radios found
+BthMig(V:2 T:-3): No Bluetooth radios found
+BthMig(V:2 T:-3): No Bluetooth radios found
+BthMig(V:2 T:-3): No Bluetooth radios found
+AudMig: Applying saved Audio settings
+AudMig: Copying the migration information to a permanent location
+AudMig: Done copying the migration information to a permanent location.  Now delete upgrade data.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnAllowInstall============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xd1
+dispci.dll:  ============END OnAllowInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x18 and device PCI\VEN_8086&DEV_0166&SUBSYS_90B7104D&REV_09\3&11583659&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnInstallDeviceFiles============
+dispci.dll:  ============END OnInstallDeviceFiles==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x15 and device PCI\VEN_8086&DEV_0166&SUBSYS_90B7104D&REV_09\3&11583659&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0xa9cc1980
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xd1
+dispci.dll:  ============BEGIN OnInstallDevice============
+dispci.dll:  ============END OnInstallDevice==============
+dispci.dll:  DisplayClassInstaller: Returning 0x00000000 for DIF 0x2 and device PCI\VEN_8086&DEV_0166&SUBSYS_90B7104D&REV_09\3&11583659&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnFinishInstall============
+dispci.dll:  ============END OnFinishInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x1e and device PCI\VEN_8086&DEV_0166&SUBSYS_90B7104D&REV_09\3&11583659&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_8086&DEV_0166&SUBSYS_90B7104D&REV_09\3&11583659&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+WdfCoInstaller: [10/11/2017 02:43.05.502] DIF_INSTALLDEVICE: Pre-Processing
+
+WdfCoInstaller: [10/11/2017 02:43.05.565] ReadComponents:  WdfSection for Driver Service SmbDrvI using KMDF lib version Major 1, minor 11 
+
+WdfCoInstaller: [10/11/2017 02:43.05.862] DIF_INSTALLDEVICE: Post-Processing
+
+AudMig: Applying saved Audio settings
+AudMig: The migration information has already been backed up
+AudMig: Applying saved Audio settings
+AudMig: The migration information has already been backed up
+AudMig: Applying saved Audio settings
+AudMig: The migration information has already been backed up
+AudMig: Applying saved Audio settings
+AudMig: The migration information has already been backed up
+AudMig: Applying saved Audio settings
+AudMig: The migration information has already been backed up
+AudMig: Applying saved Audio settings
+AudMig: The migration information has already been backed up
+AudMig: Applying saved Audio settings
+AudMig: The migration information has already been backed up
+AudMig: Device Ids match - \\?\HDAUDIO#FUNC_01&VEN_10EC&DEV_0233&SUBSYS_104D7200&REV_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\SingleLineOutTopo \\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo
+AudMig: Copying the endpoint migration information to mmdevices key
+AudMig: Done copying the endpoint migration information to mmdevices key
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010002 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010002
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 9
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{E19D0C84-691D-4037-A078-09E2459DD64D} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{C0094736-0DAE-43B8-903D-29C4DA37FB4D}
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 27
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 29
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 37
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{128992CB-0B5A-43FE-B8BC-9B8B1E80C038} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{3BBF5B02-EE75-4A99-A876-D3AA49257213}
+AudMig: Device Ids match - \\?\HDAUDIO#FUNC_01&VEN_10EC&DEV_0233&SUBSYS_104D7200&REV_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\RearLineOutWave3 \\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rearlineoutwave3
+AudMig: Device Ids match - \\?\HDAUDIO#FUNC_01&VEN_10EC&DEV_0233&SUBSYS_104D7200&REV_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\RtMicInTopo \\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rtmicintopo
+AudMig: Device Ids match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rtmicintopo/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rtmicintopo/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 29
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 31
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 39
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{F3D431E8-7C0F-43D7-AD72-58FDC28E6DAC} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{A8419075-26EA-4B92-B01B-8ED865038BED}
+AudMig: Device Ids match - \\?\HDAUDIO#FUNC_01&VEN_10EC&DEV_0233&SUBSYS_104D7200&REV_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\RtMicInWave \\?\hdaudio#func_01&ven_10ec&dev_0233&subsys_104d7200&rev_1000#4&11295e44&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rtmicinwave
+WdfCoInstaller: [10/11/2017 02:43.52.520] DIF_INSTALLDEVICE: Pre-Processing
+
+WdfCoInstaller: [10/11/2017 02:43.52.583] ReadComponents:  WdfSection for Driver Service SynTP using KMDF lib version Major 1, minor 11 
+
+WdfCoInstaller: [10/11/2017 02:43.53.130] DIF_INSTALLDEVICE: Post-Processing
+
+WdfCoInstaller: [10/11/2017 02:43.56.582] DIF_INSTALLDEVICE: Pre-Processing
+
+WdfCoInstaller: [10/11/2017 02:43.56.631] ReadComponents:  WdfSection for Driver Service SmbDrvI using KMDF lib version Major 1, minor 11 
+
+WdfCoInstaller: [10/11/2017 02:43.56.834] DIF_INSTALLDEVICE: Post-Processing
+
+WdfCoInstaller: [10/11/2017 02:44.00.420] DIF_INSTALLDEVICE: Pre-Processing
+
+WdfCoInstaller: [10/11/2017 02:44.00.489] ReadComponents:  WdfSection for Driver Service SmbDrvI using KMDF lib version Major 1, minor 11 
+
+WdfCoInstaller: [10/11/2017 02:44.00.720] DIF_INSTALLDEVICE: Post-Processing
+
+AudMig: Applying saved Audio settings
+AudMig: Device Ids match - \\?\BTHENUM#{24df01a9-3e4f-4c9f-9f66-5aa8ab14f8f4}_LOCALMFG&0000#8&294d2435&0&000000000000_00000000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\Wave \\?\bthenum#{24df01a9-3e4f-4c9f-9f66-5aa8ab14f8f4}_localmfg&0000#8&294d2435&0&000000000000_00000000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\wave
+AudMig: The migration information has already been backed up
+AudMig: Device Ids match - \\?\BTHENUM#{24df01a9-3e4f-4c9f-9f66-5aa8ab14f8f4}_LOCALMFG&0000#8&294d2435&0&000000000000_00000000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\Topology \\?\bthenum#{24df01a9-3e4f-4c9f-9f66-5aa8ab14f8f4}_localmfg&0000#8&294d2435&0&000000000000_00000000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topology
+AudMig: Device Ids match - {2}.\\?\bthenum#{24df01a9-3e4f-4c9f-9f66-5aa8ab14f8f4}_localmfg&0000#8&294d2435&0&000000000000_00000000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topology/00010001 {2}.\\?\bthenum#{24df01a9-3e4f-4c9f-9f66-5aa8ab14f8f4}_localmfg&0000#8&294d2435&0&000000000000_00000000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topology/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 6
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{456781D5-2640-4C58-97E9-31AC562C31F6} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{32DF257D-8AE1-4AC8-9BD4-6A953A47A30B}
+AudMig: The migration information has already been backed up
+2017-10-11 03:09:01, Info                  MIG    MigHost started with command line: {31751CD4-7FAE-4F05-B387-DD3A0E12116F} /InitDoneEvent:MigHost.{31751CD4-7FAE-4F05-B387-DD3A0E12116F}.Event /ParentPID:1164
+2017-10-11 03:09:01, Info                  MIG    MigHost: CMigPluginSurrogate::Init: Successfully initialized surrogate.
+2017-10-11 03:09:01, Info                  MIG    MigHost: Initialized successfully with CLSID[{31751CD4-7FAE-4F05-B387-DD3A0E12116F}] and LogDir=[]
+2017-10-11 03:09:02, Info                  MIG    MigHost: Exiting process.
+2017-10-11 03:09:02, Info                  MIG    MigHost started with command line: {08D5F702-96FA-491F-B37C-75C9E35C5120} /InitDoneEvent:MigHost.{08D5F702-96FA-491F-B37C-75C9E35C5120}.Event /ParentPID:1164
+2017-10-11 03:09:02, Info                  MIG    MigHost: CMigPluginSurrogate::Init: Successfully initialized surrogate.
+2017-10-11 03:09:02, Info                  MIG    MigHost: Initialized successfully with CLSID[{08D5F702-96FA-491F-B37C-75C9E35C5120}] and LogDir=[]
+2017-10-11 03:09:03, Info                  MIG    MigHost: Exiting process.
+2017-10-11 03:09:03, Info                  MIG    MigHost started with command line: {09D3D6F5-6354-407E-ACDB-7830F1791396} /InitDoneEvent:MigHost.{09D3D6F5-6354-407E-ACDB-7830F1791396}.Event /ParentPID:1164
+2017-10-11 03:09:03, Info                  MIG    MigHost: CMigPluginSurrogate::Init: Successfully initialized surrogate.
+2017-10-11 03:09:03, Info                  MIG    MigHost: Initialized successfully with CLSID[{09D3D6F5-6354-407E-ACDB-7830F1791396}] and LogDir=[]
+2017-10-11 03:11:14, Info                  MIG    MigHost: Exiting process.
+2017-10-11 03:11:14, Info                  MIG    MigHost started with command line: {1F8FDC20-CDCA-4FE0-BDCE-804C567BEC9F} /InitDoneEvent:MigHost.{1F8FDC20-CDCA-4FE0-BDCE-804C567BEC9F}.Event /ParentPID:1164
+2017-10-11 03:11:14, Info                  MIG    MigHost: CMigPluginSurrogate::Init: Successfully initialized surrogate.
+2017-10-11 03:11:14, Info                  MIG    MigHost: Initialized successfully with CLSID[{1F8FDC20-CDCA-4FE0-BDCE-804C567BEC9F}] and LogDir=[]
+2017-10-11 03:11:16, Info                  MIG    MigHost: Exiting process.
+2017-10-11 03:11:16, Info                  MIG    MigHost started with command line: {095EBCD8-1233-43E3-B760-DEA55C6CB93E} /InitDoneEvent:MigHost.{095EBCD8-1233-43E3-B760-DEA55C6CB93E}.Event /ParentPID:1164
+2017-10-11 03:11:16, Info                  MIG    MigHost: CMigPluginSurrogate::Init: Successfully initialized surrogate.
+2017-10-11 03:11:16, Info                  MIG    MigHost: Initialized successfully with CLSID[{095EBCD8-1233-43E3-B760-DEA55C6CB93E}] and LogDir=[]
+2017-10-11 03:11:17, Info                  MIG    MigHost: Exiting process.
+2017-10-11 03:11:17, Info                  MIG    MigHost started with command line: {AB0CF8A4-471A-4340-8673-CC888597BC9E} /InitDoneEvent:MigHost.{AB0CF8A4-471A-4340-8673-CC888597BC9E}.Event /ParentPID:1164
+2017-10-11 03:11:17, Info                  MIG    MigHost: CMigPluginSurrogate::Init: Successfully initialized surrogate.
+2017-10-11 03:11:17, Info                  MIG    MigHost: Initialized successfully with CLSID[{AB0CF8A4-471A-4340-8673-CC888597BC9E}] and LogDir=[]
+2017-10-11 03:11:18, Info                  MIG    MigHost: Exiting process.
+[10/11/2017 11:25.35.553] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[10/11/2017 11:25.35.632] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[10/11/2017 11:25.35.671] WudfCoInstaller: ImpersonationLevel set to 2
+
+[10/11/2017 11:25.35.766] WudfCoInstaller: Using "Win7" service configuration
+
+[10/11/2017 11:25.35.797] WudfCoInstaller: Service WudfSvc is already running.
+
+[10/11/2017 11:25.35.850] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[10/11/2017 11:25.36.582] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[10/15/2017 18:39.38.846] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[10/15/2017 18:39.38.980] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[10/15/2017 18:39.39.030] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[10/15/2017 18:39.39.062] WudfCoInstaller: ImpersonationLevel set to 2
+
+[10/15/2017 18:39.39.099] WudfCoInstaller: Using "Win7" service configuration
+
+[10/15/2017 18:39.39.146] WudfCoInstaller: Service WudfSvc is already running.
+
+[10/15/2017 18:39.39.183] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[10/15/2017 18:39.39.815] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[10/15/2017 19:22.14.989] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[10/15/2017 19:22.15.029] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[10/15/2017 19:22.15.073] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[10/15/2017 19:22.15.117] WudfCoInstaller: ImpersonationLevel set to 2
+
+[10/15/2017 19:22.15.161] WudfCoInstaller: Using "Win7" service configuration
+
+[10/15/2017 19:22.15.207] WudfCoInstaller: Service WudfSvc is already running.
+
+[10/15/2017 19:22.15.251] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[10/15/2017 19:22.15.576] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[10/24/2017 12:16.29.042] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[10/24/2017 12:16.29.162] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[10/24/2017 12:16.29.205] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[10/24/2017 12:16.29.255] WudfCoInstaller: ImpersonationLevel set to 2
+
+[10/24/2017 12:16.29.296] WudfCoInstaller: Using "Win7" service configuration
+
+[10/24/2017 12:16.29.367] WudfCoInstaller: Service WudfSvc is already running.
+
+[10/24/2017 12:16.29.430] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[10/24/2017 12:16.30.554] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+

@@ -1,0 +1,93 @@
+COM+[1:59:52]: ********************************************************************************
+COM+[1:59:52]: Setup started - [DATE:10,11,2017 TIME: 01:59 am]
+COM+[1:59:52]: ********************************************************************************
+COM+[1:59:52]: Start CComMig::Discover
+COM+[1:59:53]: Return XML stream: <migXml xmlns=""><rules context="system"><include><objectSet></objectSet></include></rules></migXml>
+COM+[1:59:53]: End CComMig::Discover - Return 0x00000000
+COM+[1:59:59]: ********************************************************************************
+COM+[1:59:59]: Setup (COMMIG) finished - [DATE:10,11,2017 TIME: 01:59 am]
+COM+[1:59:59]: ********************************************************************************
+COM+[2:0:39]: ********************************************************************************
+COM+[2:0:39]: Setup started - [DATE:10,11,2017 TIME: 02:00 am]
+COM+[2:0:39]: ********************************************************************************
+COM+[2:0:39]: Start CComMig::Gather
+COM+[2:0:39]: CLB file C:\Windows\Registration\R000000000001.clb successfully copied to C:\$WINDOWS.~BT\Work\MachineIndependent\Working\agentmgr\CCSIAgent\005ACB6B\R000000000054.clb
+COM+[2:0:39]: End CComMig::Gather - Return 0x00000000
+COM+[2:0:39]: ********************************************************************************
+COM+[2:0:39]: Setup (COMMIG) finished - [DATE:10,11,2017 TIME: 02:00 am]
+COM+[2:0:39]: ********************************************************************************
+COM+[3:3:37]: ********************************************************************************
+COM+[3:3:37]: Setup started - [DATE:10,11,2017 TIME: 03:03 am]
+COM+[3:3:37]: ********************************************************************************
+COM+[3:3:38]: Start CCbbSetup::ApplySuccess
+COM+[3:3:38]: Stopping service ComSysApp...
+COM+[3:3:38]: COM+ Successfully Deactivated
+COM+[3:3:38]: CLB file C:\$WINDOWS.~BT\Work\MachineIndependent\Working\srcworking\agentmgr\CCSIAgent\005ACB6B\R000000000054.clb successfully copied to C:\WINDOWS\Registration\R000000000002.clb
+COM+[3:3:38]: Schema version is 84; schema is compatible
+COM+[3:3:38]: Memory usage for setup process...
+COM+[3:3:38]: PeakWorkingSetSize: 72588 Kb, WorkingSetSize: 24488 Kb
+COM+[3:3:38]: QuotaPeakPagedPoolUsage: 418 Kb, QuotaPagedPoolUsage: 339 Kb
+COM+[3:3:38]: PeakPagefileUsage: 64200 Kb, PagefileUsage: 9032 Kb
+COM+[3:3:38]: Obtained dispenser and secadmin
+COM+[3:3:38]: Deleting legacy COM+ roles
+COM+[3:3:38]: Writing existing users in roles to inf file
+COM+[3:3:38]: Creating COM+ objects
+COM+[3:3:38]: Processing TID_COMPUTERLIST table
+COM+[3:3:38]: Processing TID_LOCALCOMPUTER table
+COM+[3:3:38]: Creating COM+ partitions
+COM+[3:3:38]: Processing TID_APPLICATIONPARTITION table
+COM+[3:3:39]: Partitions are disabled
+COM+[3:3:39]: Creating COM+ applications
+COM+[3:3:39]: Processing TID_APPLICATION table
+COM+[3:3:39]: Processing tidCOMSERVICES_SERVICES table
+COM+[3:3:39]: Creating COM+ components
+COM+[3:3:39]: Processing tidCOMSERVICES_CLASSES_INTERNAL table
+COM+[3:3:39]: Setting COM+ component class descriptions
+COM+[3:3:39]: Creating COM+ custom activators
+COM+[3:3:39]: Processing TID_CUSTOMACTIVATOR table
+COM+[3:3:39]: Deleting legacy COM+ roles
+COM+[3:3:39]: Creating COM+ roles
+COM+[3:3:39]: Processing tidCOMSERVICES_ROLEDEFINITION table
+COM+[3:3:39]: Processing tidCOMSERVICES_ROLECONFIG table
+COM+[3:3:39]: Processing tidCOMSERVICES_ROLESET table
+COM+[3:3:39]: Creating COM+ interfaces
+COM+[3:3:39]: Processing tidCOMSERVICES_CLASSINTERFACE table
+COM+[3:3:39]: Creating COM+ methods
+COM+[3:3:39]: Processing tidCOMSERVICES_CLASSITFMETHOD table
+COM+[3:3:39]: Processing tidCOMSERVICES_CLASSITFDISPID table
+COM+[3:3:39]: Adding COM+ roles to applications
+COM+[3:3:40]: Updating COM+ roles
+COM+[3:3:55]: Removing STA activator from Event Classes
+COM+[3:3:55]: Setting COM+ System Application as system
+COM+[3:3:55]: COM+ Successfully Activated
+COM+[3:3:55]: Memory usage for setup process...
+COM+[3:3:55]: PeakWorkingSetSize: 72588 Kb, WorkingSetSize: 25472 Kb
+COM+[3:3:55]: QuotaPeakPagedPoolUsage: 418 Kb, QuotaPagedPoolUsage: 344 Kb
+COM+[3:3:55]: PeakPagefileUsage: 64200 Kb, PagefileUsage: 9276 Kb
+COM+[3:3:55]: Start CCbbSetup::RegisterMigratedComponents
+COM+[3:3:55]: End CCbbSetup::RegisterMigratedComponents - Return 0x00000000
+COM+[3:3:55]: Backup RegDB file to 'C:\WINDOWS\system32\emptyregdb.dat'.
+COM+[3:3:56]: Start CCbbSetup::RemoveDeprecatedApplications
+COM+[3:3:56]: CComPlusCore::DeleteAppByName: Removing .NET Utilities from the COM+ catalog
+COM+[3:3:56]: CComPlusCore::DeleteAppByName: Removing IIS Out-Of-Process Pooled Applications from the COM+ catalog
+COM+[3:3:56]: CComPlusCore::DeleteAppByName: Removing IIS-{Default Web Site//Root/MSMQ} from the COM+ catalog
+COM+[3:3:56]: CComPlusCore::DeleteAppByName: Removing IIS In-Process Applications from the COM+ catalog
+COM+[3:3:56]: CComPlusCore::DeleteAppByName: Removing IIS Utilities from the COM+ catalog
+COM+[3:3:56]: CComPlusCore::DeleteAppByName: Removing MQTriggersApp from the COM+ catalog
+COM+[3:3:56]: CComPlusCore::DeleteAppByName: Removing MS Software Shadow Copy Provider from the COM+ catalog
+COM+[3:3:56]: End CCbbSetup::RemoveDeprecatedApplications - Return 0x00000000
+COM+[3:3:56]: Stopping service ComSysApp...
+COM+[3:3:57]: Start CCbbSetup::UpdateSysAppRoles
+COM+[3:3:57]: ComPlusSetRole: Role = Administrator, UsersInRole = , RoleFlag = 0x100
+COM+[3:3:58]: Set role 'Administrator' to 'System Application'.
+COM+[3:3:59]: ComPlusSetRole: Role = Reader, UsersInRole = , RoleFlag = 0x100
+COM+[3:3:59]: Set role 'Reader' to 'System Application'.
+COM+[3:3:59]: ComPlusSetRole: Role = Server Application, UsersInRole = , RoleFlag = 0x100
+COM+[3:4:0]: Set role 'Server Application' to 'System Application'.
+COM+[3:4:0]: ComPlusSetRole: Role = Any Application, UsersInRole = , RoleFlag = 0x100
+COM+[3:4:1]: Set role 'Any Application' to 'System Application'.
+COM+[3:4:1]: End CCbbSetup::UpdateSysAppRoles - Return 0x00000000
+COM+[3:4:2]: End CCbbSetup::ApplySuccess - Return 0x00000000
+COM+[3:8:28]: ********************************************************************************
+COM+[3:8:28]: Setup (COMMIG) finished - [DATE:10,11,2017 TIME: 03:08 am]
+COM+[3:8:28]: ********************************************************************************

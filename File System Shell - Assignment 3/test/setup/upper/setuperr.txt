@@ -1,0 +1,20 @@
+Warning:
+BthMig(V:2 T:-3): LocalServices registry key was migrated
+
+***
+
+Warning:
+BthMig(V:2 T:-3): DisableFsquirt registry value was migrated
+
+***
+
+Warning:
+BthMig(V:2 T:-3): LocalServices registry key was migrated
+
+***
+
+Warning:
+BthMig(V:2 T:-3): DisableFsquirt registry value was migrated
+
+***
+
